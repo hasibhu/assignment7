@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/z5gpRNN/Spaghetti-Carbonara.jpg",
+        "name": "Spaghetti Carbonara",
+        "description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+        "ingredients": {
+            "length": 7,
+            "list": [
+                "200g spaghetti",
+                "2 large eggs",
+                "100g pancetta or guanciale",
+                "50g grated Pecorino Romano cheese",
+                "50g grated Parmesan cheese",
+                "Freshly ground black pepper",
+                "Salt to taste"
+            ]
+        },
+        "preparing_time": "30 minutes",
+        "calories": "450 kcal",
+        "want_to_cook_button": "https://example.com/want-to-cook"
+    },
+    {   
+        "id": 2,
+        "image": "https://i.ibb.co/BjpDmsJ/Chicken-Alfredo.jpg",
+        "name": "Chicken Alfredo",
+        "description": "Creamy pasta dish with tender chicken breast and Parmesan cheese.",
+        "ingredients": {
+            "length": 6,
+            "list": [
+                "300g fettuccine pasta",
+                "2 chicken breasts",
+                "2 cups heavy cream",
+                "1 cup grated Parmesan cheese",
+                "Salt and pepper to taste",
+                "Fresh parsley for garnish"
+            ]
+        },
+        "preparing_time": "40 minutes",
+        "calories": "600 kcal",
+        "want_to_cook_button": "https://example.com/want-to-cook"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/wg6d1gr/Caprese-Salad.jpg",
+        "name": "Caprese Salad",
+        "description": "Simple and refreshing salad with tomatoes, fresh mozzarella, basil, and balsamic glaze.",
+        "ingredients": {
+            "length": 5,
+            "list": [
+                "2 large tomatoes",
+                "1 ball fresh mozzarella cheese",
+                "Fresh basil leaves",
+                "2 tablespoons balsamic glaze",
+                "Salt and pepper to taste"
+            ]
+        },
+        "preparing_time": "15 minutes",
+        "calories": "250 kcal",
+        "want_to_cook_button": "https://example.com/want-to-cook"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/bB7RZhb/Beef-Tacos.jpg",
+        "name": "Beef Tacos",
+        "description": "Mexican-style tacos with seasoned ground beef, lettuce, tomatoes, cheese, and salsa.",
+        "ingredients": {
+            "length": 6,
+            "list": [
+                "500g ground beef",
+                "1 packet taco seasoning",
+                "8 taco shells",
+                "1 cup shredded lettuce",
+                "1 cup diced tomatoes",
+                "1 cup shredded cheddar cheese"
+            ]
+        },
+        "preparing_time": "25 minutes",
+        "calories": "350 kcal",
+        "want_to_cook_button": "https://example.com/want-to-cook"
+    },
+    {   
+        "id": 5,
+        "image": "https://i.ibb.co/CB6zCWd/Vegetable-Stir-Fry.jpg",
+        "name": "Vegetable Stir-Fry",
+        "description": "Quick and healthy stir-fry with colorful vegetables and tofu, seasoned with soy sauce and garlic.",
+        "ingredients": {
+            "length": 7,
+            "list": [
+                "1 block tofu",
+                "2 cups mixed vegetables (bell peppers, broccoli, carrots, etc.)",
+                "3 tablespoons soy sauce",
+                "2 cloves garlic, minced",
+                "2 tablespoons vegetable oil",
+                "Salt and pepper to taste",
+                "Cooked rice for serving"
+            ]
+        },
+        "preparing_time": "20 minutes",
+        "calories": "300 kcal",
+        "want_to_cook_button": "https://example.com/want-to-cook"
+    },
+    {   
+        "id": 6,
+        "image": "https://i.ibb.co/3YkbMxf/Chocolate-Chip-Cookies.jpg",
+        "name": "Chocolate Chip Cookies",
+        "description": "Classic homemade cookies with chunks of chocolate chips, perfect for a sweet treat.",
+        "ingredients": {
+            "length": 6,
+            "list": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 cup unsalted butter, softened",
+                "3/4 cup granulated sugar",
+                "3/4 cup packed brown sugar",
+                "2 large eggs",
+                "2 cups semisweet chocolate chips"
+            ]
+        },
+        "preparing_time": "15 minutes",
+        "calories": "200 kcal",
+        "want_to_cook_button": "https://example.com/want-to-cook"
+    }
+]
+
+
+
+
+
+
+
